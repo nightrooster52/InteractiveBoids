@@ -1,0 +1,1 @@
+﻿package  {		public class Bird extends Boid{		public function Bird(master:BoidController) {			super(master);			// constructor code		}	}	}
